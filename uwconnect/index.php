@@ -2,8 +2,8 @@
 	<head>
 		<title> Connect </title>
 		<!-- Bootstrap -->
-		<link href="styles/bootstrap.styles" rel="stylesheet">
-		<link href="styles/connect.styles" rel="stylesheet">
+		<link href="styles/bootstrap.css" rel="stylesheet">
+		<link href="styles/connect.css" rel="stylesheet">
 		<script src="http://code.jquery.com/jquery-latest.scripts"></script>
 		<script src="scripts/bootstrap.min.scripts"></script>
 		<script src="scripts/bootstrap-transition.scripts"></script>
