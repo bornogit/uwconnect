@@ -1,0 +1,174 @@
+body
+{
+	margin:0;
+	padding:0;
+}
+#body
+{
+	width: 800px; 
+	height: 70%;
+	margin:auto
+}
+
+
+em 
+{ 
+	font-weight: bold; 
+	padding-right: 1em; 
+	vertical-align: top; 
+	color: red;
+}
+
+textarea 
+{
+	overflow-y: auto; 
+	resize: none;
+}
+
+* { 
+	font-family: Verdana; 
+	font-size: 96%; 
+}
+
+label 
+{ 
+	width: 15em;  
+}
+
+label.error 
+{ 
+	float: right;
+	color: blue; 
+	padding-left: .5em; 
+	vertical-align: top; 
+}
+
+#loginError
+{
+	text-align: center;
+	color: blue;
+}
+
+#friendList
+{
+	overflow:scroll; 
+}
+
+.headerDiv
+{
+	padding:15px;
+	margin-bottom:20px;
+	margin-top:20px;
+	background-color:#fff;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	border-radius:8px
+}
+
+.content-wrap
+   {
+     background-color: #EEE;
+     clear: both;
+     float: left;
+     width: 100%;
+}
+
+#upperPanel
+{
+	padding:15px;
+	margin-bottom:20px;
+	margin-top:20px;
+	margin-right:20px;
+	margin-left:20px;
+	background-color:#fff;
+	-webkit-border-radius:12px;
+	-moz-border-radius:12px;
+	border-radius:10px;
+	height: 60%;
+	width: 65%;
+	float: left;
+}
+
+
+#bottomLeftPanel
+{
+	padding:15px;
+	margin-bottom:20px;
+	margin-top:20px;
+	margin-right:20px;
+	margin-left:20px;
+	background-color:#fff;
+	-webkit-border-radius:12px;
+	-moz-border-radius:12px;
+	border-radius:10px;
+	height: 5%;
+	width: 65%;
+	float: left;
+}
+#chatTexts
+{
+	background-color: #EEE;
+    clear: both;
+    float: left;
+    width: 100%;
+	height: 100%;
+}
+
+#inputTextArea
+{
+background-color: #EEE;
+    clear: both;
+    float: left;
+    width: 100%;
+	height: 100%;
+}
+
+#rightPanel
+{
+	padding:15px;
+	margin-bottom:20px;
+	margin-top:20px;
+	margin-right:20px;
+	margin-left:20px;
+	background-color:#fff;
+	-webkit-border-radius:12px;
+	-moz-border-radius:12px;
+	border-radius:10px;
+	height: 60%;
+	width: 20%;
+	float: right;
+}
+#bottomRightPanel
+{
+	padding:15px;
+	margin-bottom:20px;
+	margin-top:20px;
+	margin-right:20px;
+	margin-left:20px;
+	background-color:#abc;
+	-webkit-border-radius:12px;
+	-moz-border-radius:12px;
+	border-radius:10px;
+	height: 5%;
+	width: 20%;
+	float: right;
+}
+
+#enterChat
+{
+	height: 100%;
+	width: 100%;
+}
+#footer
+{
+
+     clear: both;
+     float: left;
+     width: 100%;
+}
+textarea:hover
+{
+	cursor: text;
+}
+
+    
